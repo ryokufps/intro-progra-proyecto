@@ -16,7 +16,7 @@ Develop an inventory management system that allows users to register, consult, m
 
 ## Deliverables
 
-### Stage 1 - RAPTOR Avalonia (2 weeks)
+### [Stage 1 - RAPTOR Avalonia (2 weeks)](https://github.com/ryokufps/intro-progra-proyecto/tree/main/raptor)
 - Design and implement the inventory management system using the RAPTOR Avalonia programming language.
 - **Functionalities:**
   - **Product Registration:** Allows entering the basic information of a product, such as name, description, price, and stock quantity.
